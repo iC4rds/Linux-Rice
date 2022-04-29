@@ -1,0 +1,29 @@
+Install:
+timeshift
+tweaks
+kitty
+fish
+omf theme bira
+neofetch
+ranger
+htop
+hollywood
+cmatrix
+tty-clock
+vim
+opera
+brave
+pycharm
+atom
+discord
+spotify
+lunarclient: ~/.minecraft
+hydrapaper
+gnu
+obs
+
+replace config files
+neofetchbackup2: /usr/bin/neofetch/
+die anderen sollten im .config ordner sein
+
+Hintergrundbilder: hydrapaper
