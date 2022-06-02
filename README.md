@@ -12,7 +12,7 @@ On this Github [repo](https://github.com/iC4rds/Linux-Rice) you can find all the
 
 [Homepage](https://ic4rds.github.io)
 
-[Personal](https://ic4rds.github.io/David-Saudacher)
+[Personal](https://ic4rds.github.io/David-Staudacher)
 
 [Blog](https://ic4rds.github.io/Blog)
 
