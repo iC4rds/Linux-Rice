@@ -7,4 +7,12 @@ On this Github [repo](https://github.com/iC4rds/Linux-Rice) you can find all the
 + Shell: fish
 + Browser: Opera & Brave
 
-[Zurück](https://ic4rds.github.io)
+
+### Support or Contact
+
+[Homepage](https://ic4rds.github.io)
+
+[Personal](https://ic4rds.github.io/David-Saudacher)
+
+[Blog](https://ic4rds.github.io/Blog)
+
