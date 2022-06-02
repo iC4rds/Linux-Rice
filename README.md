@@ -6,3 +6,5 @@ On this Github [repo](https://github.com/iC4rds/Linux-Rice) you can find all the
 + Terminal: Kitty
 + Shell: fish
 + Browser: Opera & Brave
+
+[Zurück](ic4rds.gthub.io)
