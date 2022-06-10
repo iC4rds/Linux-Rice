@@ -5,7 +5,7 @@ On this Github [repo](https://github.com/iC4rds/Linux-Rice) you can find all the
 + DE: Gnome
 + Terminal: Kitty
 + Shell: fish
-+ Browser: Opera & Brave
++ Browser: Brave
 
 
 ### Support or Contact
